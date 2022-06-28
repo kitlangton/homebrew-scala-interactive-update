@@ -7,5 +7,4 @@ class ScalaInteractiveUpdate < Formula
   def install
     bin.install "scala-interactive-update"
   end
-
 end
