@@ -5,6 +5,6 @@ class ScalaInteractiveUpdate < Formula
   sha256 "c41a972917f921ac8751b7e80c88be3a3487f5d6f0838272fb8bef9e3982d27c"
 
   def install
-    bin.install "sup-macos" => "scala-interactive-update"
+    bin.install "sup-macos-amd" => "scala-interactive-update"
   end
 end
