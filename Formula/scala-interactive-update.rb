@@ -5,7 +5,7 @@ class ScalaInteractiveUpdate < Formula
   sha256 "8153d48aa819eada3eecaf47560aa68eed782a61f9c65564db4ee9ccd3aeba3a"
 
   def install
-    bin.install "scala-interactive-update"
+    bin.install "sup"
   end
 
 end
