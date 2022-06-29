@@ -1,8 +1,8 @@
 class ScalaInteractiveUpdate < Formula
   desc "Update your Scala dependencies interactively"
   homepage "https://github.com/kitlangton/scala-interactive-update"
-  url "https://github.com/kitlangton/scala-interactive-update/releases/download/v0.1.15/sup-macos-amd"
-  sha256 "282d01c21eca7c3d9a9d725bcb37f4045cefabb1f78e7ada1ac95e75bc1a37fd"
+  url "https://github.com/kitlangton/scala-interactive-update/releases/download/v0.1.16/sup-macos-amd"
+  sha256 "8b6e9a0ff0d79be334afaa5d7ac771d137dfe803bf830ee3afe8c063fa146848"
 
   def install
     bin.install "sup-macos-amd" => "scala-interactive-update"
