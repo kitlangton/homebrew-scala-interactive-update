@@ -5,6 +5,6 @@ class Given < Formula
   sha256 "72ee29ece71f6333306300ba86cefe7992b3fd88790c7f818e7713f824d0423e"
 
   def install
-    bin.install "given-macos" => "given"
+    bin.install "given_macos_arm" => "given"
   end
 end
